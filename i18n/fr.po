@@ -1,0 +1,88 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* statement_line_transaction_type_as_many2one
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:24+0000\n"
+"PO-Revision-Date: 2023-05-17 14:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: statement_line_transaction_type_as_many2one
+#: model_terms:ir.ui.view,arch_db:statement_line_transaction_type_as_many2one.view_account_bank_statement_transaction_type_form
+msgid "Bank Statement"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model,name:statement_line_transaction_type_as_many2one.model_account_bank_statement_line
+msgid "Bank Statement Line"
+msgstr "Ligne de relevé bancaire"
+
+#. module: statement_line_transaction_type_as_many2one
+#: model_terms:ir.actions.act_window,help:statement_line_transaction_type_as_many2one.action_account_bank_statement_transaction_type
+msgid "Create new transaction type"
+msgstr "Créer un nouveau type de transaction"
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__description
+msgid "Description"
+msgstr "Description"
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__id
+msgid "ID"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_transaction_type__name
+msgid "Name"
+msgstr "Nom"
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.model.fields,field_description:statement_line_transaction_type_as_many2one.field_account_bank_statement_line__transaction_type
+msgid "Transaction Type"
+msgstr "Type de transaction"
+
+#. module: statement_line_transaction_type_as_many2one
+#: model:ir.actions.act_window,name:statement_line_transaction_type_as_many2one.action_account_bank_statement_transaction_type
+#: model:ir.model,name:statement_line_transaction_type_as_many2one.model_account_bank_statement_transaction_type
+#: model:ir.ui.menu,name:statement_line_transaction_type_as_many2one.menu_account_bank_statement_transaction_type
+msgid "Transaction type"
+msgstr "Type de transaction"
